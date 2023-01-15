@@ -1,3 +1,3 @@
 # GTMBase64Swift
 
-A description of this package.
+Swift package manager wrapper over Google's GTMBase64 licensed under the Apache License, Version 2.0 (the "License").
